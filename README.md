@@ -5,9 +5,12 @@ An electrostimulation machine development kit.
 ### What is it?
 This project describes the design and implementation of a bare-bones, yet innovative and powerful, pulse-based electrostimulation device. Both its hardware and its firmware are open for modification and extension.
 
-### Author
+### Authors
 Discord: @Onwrikbaar<br/>
 E: <onwrikbaar@hotmail.com>
+
+KiCad port: 
+ * [Lea Calot](mailto:lea_calot@protonmail.ch), Discord @lea_calot<br/>, [@CalotLea](https://twitter.com/CalotLea)
 
 ### Status
 This is a work in progress. The repo will be updated every few weeks until well into 2024.
